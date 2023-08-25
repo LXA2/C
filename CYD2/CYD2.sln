@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CYD2", "CYD2\CYD2.vdproj", "{5A4036F1-C6CE-4796-B59E-2B04BCE54221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A4036F1-C6CE-4796-B59E-2B04BCE54221}.Debug|Default.ActiveCfg = Debug
+		{5A4036F1-C6CE-4796-B59E-2B04BCE54221}.Debug|Default.Build.0 = Debug
+		{5A4036F1-C6CE-4796-B59E-2B04BCE54221}.Release|Default.ActiveCfg = Release
+		{5A4036F1-C6CE-4796-B59E-2B04BCE54221}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2840B85E-FCB8-420B-B72D-5764E5A94D26}
+	EndGlobalSection
+EndGlobal
