@@ -1,0 +1,9 @@
+﻿  1.c
+D:\GitHub\C\windowsss\Project1\Project1\1.c(16,33): warning C4133: “函数”: 从“char [10]”到“LPCWSTR”的类型不兼容
+D:\GitHub\C\windowsss\Project1\Project1\1.c(18,30): warning C4133: “函数”: 从“char [18]”到“LPCWSTR”的类型不兼容
+D:\GitHub\C\windowsss\Project1\Project1\1.c(18,51): warning C4133: “函数”: 从“char [6]”到“LPCWSTR”的类型不兼容
+D:\GitHub\C\windowsss\Project1\Project1\1.c(24,30): warning C4133: “函数”: 从“char [30]”到“LPCWSTR”的类型不兼容
+D:\GitHub\C\windowsss\Project1\Project1\1.c(24,63): warning C4133: “函数”: 从“char [6]”到“LPCWSTR”的类型不兼容
+D:\GitHub\C\windowsss\Project1\Project1\1.c(36,30): warning C4133: “函数”: 从“char [24]”到“LPCWSTR”的类型不兼容
+D:\GitHub\C\windowsss\Project1\Project1\1.c(36,57): warning C4133: “函数”: 从“char [6]”到“LPCWSTR”的类型不兼容
+  Project1.vcxproj -> D:\GitHub\C\windowsss\windowsss\Debug\Project1.exe
